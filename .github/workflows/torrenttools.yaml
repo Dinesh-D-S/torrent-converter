@@ -61,3 +61,4 @@ jobs:
         with:
           name: ${{ inputs.name }}
           path: ${{ inputs.name }}.torrent
+          
